@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>khushhalm.com is under construction</title>
+    <meta name="description" content="Resources for khushhalm.com" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,900">
+    <link rel="stylesheet" href="under-construction-page/assets/css/bootstrap.min.css?v=2.90" type="text/css">
+<link rel="stylesheet" href="under-construction-page/assets/css/common.css?v=2.90" type="text/css">
+<link rel="stylesheet" href="under-construction-page/assets/under_construction/style.css?v=2.90" type="text/css">
+<link rel="stylesheet" href="under-construction-page/assets/css/font-awesome.min.css?v=2.90" type="text/css">
+<link rel="shortcut icon" type="image/png" href="under-construction-page/assets/images/favicon.png" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+          <p class="content"><h1><p style="text-align: center;"><span style="color: #000000;"><strong>Sorry, we're doing some work on the site... can't wait to be back!
+          </strong></span></h1></p>
+        </div>
+      </div>
+    </div>
+
+    <div id="hero-image" style="text-align: center;">
+      <img src="under-construction-page/assets/under_construction/under_construction.png" alt="Construction work in progress" title="Construction work in progress">
+    </div>
+
+      <div class="row">
+        <div class="col-xs-12 col-md-8 col-md-offset-2 col-lg-offset-2 col-lg-8">
+          <p class="content"><p style="text-align: center;"><span style="color: #ff6600;"><strong>SCHEDULED COMPLETION:</strong></span> Monday, May 27th 2018<br />
+Thank you for being patient. There have been some significant changes happening behind the scenes that I can't wait to share with you!</p><br />
+<p style="text-align: center;"><strong><span style="color: #ff6600;"><em>Meanwhile you can contact me on any of the below mentioned social media link :)</em></span></strong></p><br />
+<br />
+</div></div><br />
+  
+<div><center>
+	  
+<div id="credit">Made with &hearts; by <a href="https://www.facebook.com/khushhalm">Khushhal Maheshwari</a></div>
+		
+	<a href="https://www.facebook.com/khushhalm">
+	<img src="under-construction-page/assets/images/fb-art.jpg" alt="Facebook Page" width="42"></a>
+	
+	<a href="https://www.youtube.com/user/khushhal000/">
+	<img src="under-construction-page/assets/images/YouTube-logo-full_color.png" alt="Youtube Page" width="100"></a>
+	
+	<a href="mailto:khushhal.maheshwari.15ece@bml.edu.in">
+	<img src="under-construction-page/assets/images/Gmail_Logo.png" alt="Gmail" width="55"></a>
+
+</center>
+</div>
+</body>
+</html>
