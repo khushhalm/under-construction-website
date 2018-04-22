@@ -1,3 +1,3 @@
 # under-construction-website
 
-khushhalm.com
+https://khushhalm.com/
